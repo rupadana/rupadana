@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @rupadana
 - 👀 I’m interested in PHP and Javascript
-- 🌱 I’m currently learning Nextjs
+- 🌱 I’m currently learning Nextjs & FilamentPHP
 
 <!---
 rupadana/rupadana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
