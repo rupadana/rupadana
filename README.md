@@ -7,7 +7,7 @@
 
 
 
-<span><img src="https://github-readme-streak-stats.herokuapp.com/?user=aulianza" height="150" alt="Stat Streak" /></span>
+<span><img src="https://github-readme-streak-stats.herokuapp.com/?user=aulianza" align="right" alt="Stat Streak" /></span>
 
 
 <!---
