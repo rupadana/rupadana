@@ -5,6 +5,11 @@
 - 🌱 I’m currently learning Nextjs & FilamentPHP
 - 🤙 Active on FilamentPHP Community
 
+
+
+<span><img src="https://github-readme-streak-stats.herokuapp.com/?user=aulianza" height="150" alt="Stat Streak" /></span>
+
+
 <!---
 rupadana/rupadana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
