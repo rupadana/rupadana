@@ -7,7 +7,7 @@
 
 
 
-<span><img src="https://github-readme-streak-stats.herokuapp.com/?user=aulianza" align="right" alt="Stat Streak" /></span>
+<span><img src="https://github-readme-streak-stats.herokuapp.com/?user=rupadana" align="right" alt="Stat Streak" /></span>
 <img src="https://github-readme-stats.vercel.app/api?username=rupadana&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&count_private=true" />
 
 
