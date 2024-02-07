@@ -7,7 +7,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupadana&label=Profile%20views&color=0e75b6&style=flat" alt="hammadzafar05" /> </p>
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rupadana" alt="rupadana" /></a> </p>
 
 <!---
 rupadana/rupadana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
