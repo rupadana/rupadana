@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Filament API Service](https://github.com/rupadana/filament-api-service)
 
-- 🌱 I’m currently learning **Tall Stack**
+- 🌱 I’m currently learning **TALL Stack**
 
 - 👯 I’m looking to collaborate on [Filament API Service](https://github.com/rupadana/filament-api-service)
 
