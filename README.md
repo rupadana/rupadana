@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rupadana" alt="rupadana" /></a> </p>
 
-- 🔭 I’m currently working on [Filament API Service](https://github.com/rupadana/filament-api-service)
+- 🔭 I’m currently working on [CodeDeploy](https://deploy.codecrafters.id)
 
 - 🌱 I’m currently learning **TALL Stack**
 
-- 👯 I’m looking to collaborate on [Filament API Service](https://github.com/rupadana/filament-api-service)
+- 👯 I’m looking to collaborate on [CodeDeploy](https://deploy.codecrafters.id)
 
 - 🤝 I’m looking for help with [Filament Swiper](https://github.com/rupadana/filament-swiper)
 
