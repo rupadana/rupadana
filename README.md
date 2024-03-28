@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Laravel & FilamentPHP**
 
-- 📫 How to reach me **rupadanawayan@gmail.com**
+- 📫 How to reach me **rupadana@codecrafters.id**
 
 - 📄 Know about my experiences [https://rupadana.com/about](https://rupadana.com/about)
 
