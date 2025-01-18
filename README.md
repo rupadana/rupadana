@@ -25,10 +25,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Announcing the Latest Updates to Filament API Service](https://dev.to/rupadana/announcing-the-latest-updates-to-filament-api-service-16bl)
 - [Filament Tips : Modal View on the Table Action](https://dev.to/rupadana/filament-tips-modal-view-on-the-table-action-1cba)
 - [Filamentphp 3 : Custom Database Notification Actions](https://dev.to/rupadana/filamentphp-3-custom-database-notification-actions-1bgj)
 - [FilamentApiService : Create a custom handler](https://dev.to/rupadana/filamentapiservice-create-a-custom-handler-4blp)
-- [Filamentphp 3 : Input Group with Filament Field](https://dev.to/rupadana/filamentphp-3-input-group-with-filament-field-14l6)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
