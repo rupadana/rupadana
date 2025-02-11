@@ -25,10 +25,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Tips Terbaru Next.js untuk Performa dan Pengalaman Developer yang Lebih Baik](https://dev.to/rupadana/tips-terbaru-nextjs-untuk-performa-dan-pengalaman-developer-yang-lebih-baik-3fkf)
-- [Tips Terbaru Next.js untuk Pengembangan Web yang Lebih Cepat](https://dev.to/rupadana/tips-terbaru-nextjs-untuk-pengembangan-web-yang-lebih-cepat-1oh3)
-- [Announcing the Latest Updates to Filament API Service](https://dev.to/rupadana/announcing-the-latest-updates-to-filament-api-service-16bl)
-- [Filament Tips : Modal View on the Table Action](https://dev.to/rupadana/filament-tips-modal-view-on-the-table-action-1cba)
+- [Keamanan dalam Aplikasi PHP dan Node.js: Praktik Terbaik](https://dev.to/rupadana/keamanan-dalam-aplikasi-php-dan-nodejs-praktik-terbaik-4de2)
+- [Masa Depan Pengembangan Web: Tren Terkini dalam PHP, Node.js, dan Laravel](https://dev.to/rupadana/masa-depan-pengembangan-web-tren-terkini-dalam-php-nodejs-dan-laravel-2g23)
+- [Tutorial Membuat CRUD dengan Filament di Laravel: Panduan Langkah demi Langkah](https://dev.to/rupadana/tutorial-membuat-crud-dengan-filament-di-laravel-panduan-langkah-demi-langkah-1npg)
+- [Tutorial Membuat CRUD dengan Filament di Laravel](https://dev.to/rupadana/tutorial-membuat-crud-dengan-filament-di-laravel-c1j)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
