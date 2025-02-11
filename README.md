@@ -25,10 +25,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Tips Terbaru Next.js untuk Performa dan Pengalaman Developer yang Lebih Baik](https://dev.to/rupadana/tips-terbaru-nextjs-untuk-performa-dan-pengalaman-developer-yang-lebih-baik-3fkf)
+- [Tips Terbaru Next.js untuk Pengembangan Web yang Lebih Cepat](https://dev.to/rupadana/tips-terbaru-nextjs-untuk-pengembangan-web-yang-lebih-cepat-1oh3)
 - [Announcing the Latest Updates to Filament API Service](https://dev.to/rupadana/announcing-the-latest-updates-to-filament-api-service-16bl)
 - [Filament Tips : Modal View on the Table Action](https://dev.to/rupadana/filament-tips-modal-view-on-the-table-action-1cba)
-- [Filamentphp 3 : Custom Database Notification Actions](https://dev.to/rupadana/filamentphp-3-custom-database-notification-actions-1bgj)
-- [FilamentApiService : Create a custom handler](https://dev.to/rupadana/filamentapiservice-create-a-custom-handler-4blp)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
