@@ -25,10 +25,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Keamanan dalam Aplikasi PHP dan Node.js: Praktik Terbaik](https://dev.to/rupadana/keamanan-dalam-aplikasi-php-dan-nodejs-praktik-terbaik-4de2)
-- [Masa Depan Pengembangan Web: Tren Terkini dalam PHP, Node.js, dan Laravel](https://dev.to/rupadana/masa-depan-pengembangan-web-tren-terkini-dalam-php-nodejs-dan-laravel-2g23)
-- [Tutorial Membuat CRUD dengan Filament di Laravel: Panduan Langkah demi Langkah](https://dev.to/rupadana/tutorial-membuat-crud-dengan-filament-di-laravel-panduan-langkah-demi-langkah-1npg)
-- [Tutorial Membuat CRUD dengan Filament di Laravel](https://dev.to/rupadana/tutorial-membuat-crud-dengan-filament-di-laravel-c1j)
+- [5 Tips Menggunakan AI untuk Coding](https://dev.to/rupadana/5-tips-menggunakan-ai-untuk-coding-3le1)
+- [5 Tips Menggunakan AI untuk Koding](https://dev.to/rupadana/5-tips-menggunakan-ai-untuk-koding-22c3)
+- [5 Tips using AI for Coding](https://dev.to/rupadana/5-tips-using-ai-for-coding-116i)
+- [5 Tips for Using AI Effectively](https://dev.to/rupadana/5-tips-for-using-ai-effectively-5ai4)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
